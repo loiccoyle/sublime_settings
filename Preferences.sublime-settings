@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_to_bracket": true,
+	"strip_whitespace_lines_on_save": true,
+	"theme": "Adaptive.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

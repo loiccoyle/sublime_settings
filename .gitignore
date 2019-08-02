@@ -1,0 +1,6 @@
+*.crt
+*.user-ca-bundle
+*.last-run
+*.merged-ca-bundle
+*.crt
+*.cache

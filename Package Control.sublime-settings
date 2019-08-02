@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"AutoDocstring",
+		"GitGutter",
+		"Package Control",
+		"SideBarEnhancements",
+		"Strip Whitespace Lines",
+		"SublimeLinter",
+		"SublimeLinter-flake8"
+	]
+}
