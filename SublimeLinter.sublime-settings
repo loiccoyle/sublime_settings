@@ -5,7 +5,7 @@
 		"args": [],
 		"builtins": "",
 		"excludes": [],
-		"executable": "/Users/lcoyle/.venvs/linter/bin/flake8",
+		"executable": "/home/lcoyle/.config/miniconda/envs/linter/bin/flake8",
 		"ignore": "E501",
 		"jobs": "1",
 		"max-complexity": -1,

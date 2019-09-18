@@ -1,6 +1,4 @@
 // /User/Default ().sublime-keymap
 [
-	{ "keys": ["ctrl+k", "ctrl+k"],
-	  "command": "sublime_linter_toggle_highlights"
-	}
+	{ "keys": ["ctrl+k", "ctrl+k"], "command": "sublime_linter_toggle_highlights"},
 ]
